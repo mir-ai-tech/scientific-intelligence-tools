@@ -1,5 +1,5 @@
 # scientific-intelligence-tools
-This repository contains tools for searching for scientific material and scientific articles, as well as development tools.
+This repository contains tools for searching for scientific material and scientific articles, as well as development tools. Some of the resources may require logging out of the VPN or registering through your university.
 
 
 | №   | Website                                           | Description                                                                        |
