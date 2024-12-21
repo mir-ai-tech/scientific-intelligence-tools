@@ -26,7 +26,7 @@ This repository contains tools for searching for scientific material and scienti
 | 20  | https://openreview.net/                           | результаты конференций                                                             |
 | 21  | https://openproceedings.org/html/pages/index.html | результаты конференций                                                             |
 | 22  | https://aclanthology.org/                         | результаты конференций                                                             |
-| 23  | https://ru.z-library.sk/                          | поиск книг, но довольно старым                                                     |
+| 23  | https://ru.z-library.sk/                          | поиск книг, но довольно старых                                                     |
 | 24  | http://libgen.is/                                 | поиск книг, найти можно, но скачать только через vpn                               |
 | 25  | https://archive.org/                              | WayBackMachine - архив всего интернета                                             |
 | 26  | https://www.bing.com/                             | поисковик                                                                          |
