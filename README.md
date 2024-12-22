@@ -40,3 +40,5 @@ This repository contains tools for searching for scientific material and scienti
 | 34  | https://chatgpt.com/                              | Только через vpn, доступен бесплатно                                               |
 | 35  | https://www.perplexity.ai/                        | Аналог ChatGpt                                                                     |
 | 36  | https://copilot.microsoft.com/                    | Через впн                                                                          |
+| 37  | https://github.com/alternbits/awesome-ai-newsletters| Curated list по AI новостям                                                      |
+
