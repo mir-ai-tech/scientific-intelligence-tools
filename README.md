@@ -41,4 +41,4 @@ This repository contains tools for searching for scientific material and scienti
 | 35  | https://www.perplexity.ai/                        | Аналог ChatGpt                                                                     |
 | 36  | https://copilot.microsoft.com/                    | Через впн                                                                          |
 | 37  | https://github.com/alternbits/awesome-ai-newsletters| Curated list по AI новостям                                                      |
-
+| 38  | https://habr.com/                                 | иногда модел быть полезно при разведовательном анализе области (на очень начальном или дополнительном этапе исследований |  
