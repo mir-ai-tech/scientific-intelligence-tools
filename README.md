@@ -42,3 +42,21 @@ This repository contains tools for searching for scientific material and scienti
 | 36  | https://copilot.microsoft.com/                    | Через впн                                                                          |
 | 37  | https://github.com/alternbits/awesome-ai-newsletters| Curated list по AI новостям                                                      |
 | 38  | https://habr.com/                                 | иногда модел быть полезно при разведовательном анализе области (на очень начальном или дополнительном этапе исследований |  
+
+
+
+
+
+
+Learn how to learn
+(data management)
+learn how to learn
+ассоциативные карты, mind map
+трендвотчинг
+buzz words
+кабинетные исследования (desktop research)
+
+
+
+
+
