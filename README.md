@@ -48,6 +48,7 @@ This repository contains tools for searching for scientific material and scienti
 Explore connected papers in a visual graph - https://www.connectedpapers.com/
 https://getliner.com/main - Нейронка гуглит и выдаёт суммированный ответ. Модель можно выбрать между ChatGPT, Claude, Gemini, Llama и собственной моделью сервиса. Указывает источники к каждому предложению и дает к источникам отдельное саммари
 https://doaj.org - DOAJ (Directory of Open Access Journals): Качественные журналы открытого доступа.
+https://inciteful.xyz/ - Использует анализ цитирования и семантические алгоритмы для выявления связанных работ.
 
 
 Learn how to learn
