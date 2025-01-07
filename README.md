@@ -46,7 +46,7 @@ This repository contains tools for searching for scientific material and scienti
 
 База научных публикаций в области ИИ - https://papers.a-ai.ru/
 Explore connected papers in a visual graph - https://www.connectedpapers.com/
-
+https://getliner.com/main - Нейронка гуглит и выдаёт суммированный ответ. Модель можно выбрать между ChatGPT, Claude, Gemini, Llama и собственной моделью сервиса. Указывает источники к каждому предложению и дает к источникам отдельное саммари
 
 
 Learn how to learn
