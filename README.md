@@ -44,7 +44,8 @@ This repository contains tools for searching for scientific material and scienti
 | 38  | https://habr.com/                                 | иногда модел быть полезно при разведовательном анализе области (на очень начальном или дополнительном этапе исследований |  
 
 
-
+База научных публикаций в области ИИ - https://papers.a-ai.ru/
+Explore connected papers in a visual graph - https://www.connectedpapers.com/
 
 
 
