@@ -132,5 +132,8 @@ This repository contains tools for searching for scientific material and scienti
 1. Поисковая строка
 2. Теги
 
+# Поиск по reddit ?
+pass. нужно ли, исследовать вопрос
+
 Open Research Knowledge Graph - https://orkg.org/ 
 Описание https://habr.com/ru/articles/796553/
