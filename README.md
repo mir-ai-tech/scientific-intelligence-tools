@@ -137,3 +137,10 @@ pass. нужно ли, исследовать вопрос
 
 Open Research Knowledge Graph - https://orkg.org/ 
 Описание https://habr.com/ru/articles/796553/
+
+
+
+
+
+https://github.com/brettkromkamp/awesome-knowledge-management
+
