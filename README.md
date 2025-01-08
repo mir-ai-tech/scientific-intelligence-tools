@@ -144,3 +144,10 @@ Open Research Knowledge Graph - https://orkg.org/
 
 https://github.com/brettkromkamp/awesome-knowledge-management
 https://github.com/topics/knowledge-management
+
+Соц сети
+reddit
+Hacker News
+"Stack Overflow"
+
+пример поиска по ним "knowledge graph" cite:"Stack Overflow"
