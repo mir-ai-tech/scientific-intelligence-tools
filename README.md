@@ -151,3 +151,5 @@ Hacker News
 "Stack Overflow"
 
 пример поиска по ним "knowledge graph" cite:"Stack Overflow"
+
+сейчас большинство техноблогов в телеграм. для поиска блогов, поиска походих блогов можно использовать https://tgstat.ru/
