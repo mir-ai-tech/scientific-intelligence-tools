@@ -140,7 +140,7 @@ Open Research Knowledge Graph - https://orkg.org/
 
 
 
-
+для поиска dev tools можно использовать поиск по https://huggingface.co/
 
 https://github.com/brettkromkamp/awesome-knowledge-management
 https://github.com/topics/knowledge-management
